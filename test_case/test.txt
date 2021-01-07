@@ -1,0 +1,25 @@
+5 3 5
+5g 5r 4y
+2g 4r 3y 3g 2y
+1y 4g 1r
+1g 2r 5y 3r
+#
+
+5 3 5
+5g 4g 3g 2g 1g
+5r 4r 3r 2r 1r
+#
+5q 4q 3q 2q 1q
+#
+
+4 3 2
+2c 1c
+2b 1b
+2a 1a
+#
+
+4 2 5
+5g 4g 3g 2r 1g
+5r 4r 3r 2g 1r
+#
+#
